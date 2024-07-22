@@ -1,4 +1,4 @@
-![Header](https://github.com/Manuochoa16/Manuochoa16/blob/main/header.png)
+![Header](https://github.com/Manuochoa16/blob/main/header.png)
 
 # ¡Hola! Soy Nicolas Manuel Ochoa Gomez 👋
 
