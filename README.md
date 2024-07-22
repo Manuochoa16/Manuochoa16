@@ -1,5 +1,3 @@
-![Header](https://github.com/Manuochoa16/blob/main/header.png)
-
 # ¡Hola! Soy Nicolas Manuel Ochoa Gomez 👋
 
 Soy un desarrollador fullstack especializado en frontend, con experiencia en React, Next.js, y Tailwind CSS. Me apasiona crear aplicaciones web modernas y funcionales.
